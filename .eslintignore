@@ -1,0 +1,7 @@
+node_modules/
+flow-typed/
+build
+packages/react-scripts/template
+packages/react-scripts/fixtures
+registerServiceWorker.js
+src/index.js
